@@ -1,4 +1,11 @@
 Hii Hello good afternoon
 Hi good afternoon
+<<<<<<< HEAD
 These is Architha
 hdgjfjhnjfgnik
+
+
+This is Architha
+qwertyuiop
+
+
